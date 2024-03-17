@@ -29,5 +29,7 @@ PREVIEW:
 FILES IN MAIN FOLDER BEEN RENAMED HERE:
 ![image](https://github.com/anupsingh921/renameX-miniproj/assets/117250358/65bbbf5e-71f8-4a38-9d6a-3270dfdfaeba)
 
+
+
 FILES IN DATA SUBFOLDER BEEN RENAMED HERE:
 ![image](https://github.com/anupsingh921/renameX-miniproj/assets/117250358/6be5828c-a74d-40b5-990d-3f0aead6dbb6)
